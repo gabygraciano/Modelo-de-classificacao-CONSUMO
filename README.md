@@ -2,6 +2,24 @@
 
 ## 📝 Descrição
 Este projeto utiliza aprendizado de máquina para prever o tipo de consumo de clientes com base em suas características, otimizando campanhas de marketing dentro de um aplicativo de gamificação de um shopping.
+O projeto foi desenvolvido para o Hackathon Desafio Viva Center Norte na Campus Party BR16 como uma funcionalidade alinhada com a aplicação mobile de gamificação (inserir link).
+
+## Time 🏆
+
+Gabriella Graciano de Souza<br/>
+📧 E-mail: gabifc_graciano@hotmail.com<br/>
+🖋️ Behance: [behance.net/gabygraciano](behance.net/gabygraciano)
+### Machine Learning
+
+Breno do Amaral Falcão Souto<br/>
+📧 E-mail: brenodoamaral1@gmail.com<br/>
+🌐 GitHub: [github.com/brenodoamaral1](https://github.com/brenodoamaral1)
+### Desenvolvimento
+
+Marcelo Nunes Ananias Petroni<br/>
+📧 E-mail: marceloapetroni@hotmail.com<br/>
+🌐 GitHub: [github.com/marcelopetroni](https://github.com/marcelopetroni)
+### Desenvolvimento
 
 ## 🔍 Como Funciona:
 
