@@ -6,20 +6,21 @@ O projeto foi desenvolvido para o Hackathon Desafio Viva Center Norte na Campus 
 
 ## Time 🏆
 
+##### Machine Learning
 Gabriella Graciano de Souza<br/>
 📧 E-mail: gabifc_graciano@hotmail.com<br/>
 🖋️ Behance: [behance.net/gabygraciano](behance.net/gabygraciano)
-### Machine Learning
 
+##### Desenvolvimento
 Breno do Amaral Falcão Souto<br/>
 📧 E-mail: brenodoamaral1@gmail.com<br/>
 🌐 GitHub: [github.com/brenodoamaral1](https://github.com/brenodoamaral1)
-### Desenvolvimento
 
+##### Desenvolvimento
 Marcelo Nunes Ananias Petroni<br/>
 📧 E-mail: marceloapetroni@hotmail.com<br/>
 🌐 GitHub: [github.com/marcelopetroni](https://github.com/marcelopetroni)
-### Desenvolvimento
+
 
 ## 🔍 Como Funciona:
 
