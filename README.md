@@ -1,9 +1,9 @@
 # Previsão de Consumo - Aplicativo de Gamificação de Shopping 🛍️
 
-## 🔍 Descrição
+## 📝 Descrição
 Este projeto utiliza aprendizado de máquina para prever o tipo de consumo de clientes com base em suas características, otimizando campanhas de marketing dentro de um aplicativo de gamificação de um shopping.
 
-## 📝 Como Funciona:
+## 🔍 Como Funciona:
 
 O modelo de Machine Learning treinado (Random Forest Classifier) utiliza dados como faixa etária, motivo da visita, tipos de lojas frequentadas, fatores de compra e preferência de marcas para prever o tipo de consumo de um cliente com base no e-mail fornecido. O resultado da previsão é exibido em uma interface gráfica simples usando Tkinter.
 
@@ -21,7 +21,7 @@ Esses dados são previamente coletados através de uma pesquisa dentro do aplica
 ### Passo 1: Clone o repositório
 
    ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
+   git clone https://github.com/gabygraciano/Previsao-de-Tipos-de-Consumo-com-Tkinter-e-Machine-Learning.git
 ```
 
 ### Passo 2: Instale as dependências
