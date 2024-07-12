@@ -29,7 +29,7 @@ O modelo de Machine Learning treinado (Random Forest Classifier) utiliza dados c
 Esses dados são previamente coletados através de uma pesquisa dentro do aplicativo de gamificação no qual o usuário ganhará pontos por responde-la. As perguntas da pesquisa são pensadas em uma forma que colete os dados que queremos para usar no nosso modelo.
 
 ## ⚙️ Tecnologias Utilizadas:
-
+📙 Jupyter Notebook
 🐍 Python
 🐼 Pandas
 🧠 Scikit-learn
