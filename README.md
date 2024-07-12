@@ -55,6 +55,9 @@ Esses dados são previamente coletados através de uma pesquisa dentro do aplica
 python app.py
 ```
 
+### OBS: Não esqueça de criar e ativar seu ambiente virtual.
+Saiba como fazer clicando aqui: [https://docs.python.org/pt-br/dev/library/venv.html](https://docs.python.org/pt-br/dev/library/venv.html)
+
 ## 👨‍💻 Testando o modelo:
 
 ### No espaço abaixo, insira um e-mail cadastrado na planilha de dados:
