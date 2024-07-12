@@ -1,0 +1,2 @@
+# Previsao-de-Tipos-de-Consumo-com-Tkinter-e-Machine-Learning
+Este projeto foi desenvolvido para otimizar o processo de campanhas de marketing dentro de um aplicativo de gamificação de um shopping. Utiliza Tkinter para criar uma interface gráfica interativa onde o analista de dado pode prever o tipo de consumo que um cliente vai fazer com base no seu e-mail, utilizando modelos de Machine Learning.
