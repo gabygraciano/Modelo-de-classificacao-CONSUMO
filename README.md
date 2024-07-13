@@ -2,7 +2,7 @@
 
 ## 📝 Descrição
 Este projeto utiliza aprendizado de máquina para prever o tipo de consumo de clientes com base em suas características, otimizando campanhas de marketing dentro de um aplicativo de gamificação de um shopping.
-O projeto foi desenvolvido para o Hackathon Desafio Viva Center Norte na Campus Party BR16 como uma funcionalidade alinhada com a aplicação mobile de gamificação (inserir link).
+O projeto foi desenvolvido para o Hackathon Desafio Viva Center Norte na Campus Party BR16 como uma funcionalidade alinhada com a [aplicação mobile](https://github.com/marcelopetroni/RecTeam.git) de gamificação.
 
 ## Time 🏆
 
