@@ -40,7 +40,7 @@ Esses dados são previamente coletados através de uma pesquisa dentro do aplica
 ### Passo 1: Clone o repositório
 
    ```bash
-   git clone https://github.com/gabygraciano/Previsao-de-Tipos-de-Consumo-com-Tkinter-e-Machine-Learning.git
+   git clone https://github.com/gabygraciano/Modelo-de-classificacao-CONSUMO.git
 ```
 
 ### Passo 2: Instale as dependências
